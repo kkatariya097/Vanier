@@ -1,0 +1,16 @@
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\bin\Debug\BookBizMgntSys.exe.config
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\bin\Debug\BookBizMgntSys.exe
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\bin\Debug\BookBizMgntSys.pdb
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.csproj.AssemblyReference.cache
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.FormHome.resources
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.Login.resources
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.Properties.Resources.resources
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.csproj.GenerateResource.cache
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.csproj.CoreCompileInputs.cache
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.exe
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.pdb
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.GUI.FormMISManager.resources
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.GUI.FormSalesManager.resources
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.GUI.FormInventoryController.resources
+C:\Users\kavya\source\repos\BookBizMgntSys\BookBizMgntSys\obj\Debug\BookBizMgntSys.GUI.FormOrderClerk.resources
